@@ -1,0 +1,98 @@
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_1\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_2\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_3\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_4\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_5\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_6\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1_7\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1params\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\bin\Debug\лаб1.exe
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\bin\Debug\лаб1.pdb
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.Form1.resources
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\УЧЁБА\КСШІ\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.exe
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.pdb
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\bin\Debug\лаб1.exe
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\bin\Debug\лаб1.pdb
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\ResolveAssemblyReference.cache
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.Form1.resources
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.Properties.Resources.resources
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\лаб1Rosenbrock2C1C2\лаб1\obj\Debug\лаб1.csproj.GenerateResource.Cache
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\PSO\лаб1\obj\Debug\лаб1.exe
+D:\STUDY\5 курс\1семестр5курс\КСШІ\Лаба1\PSO\лаб1\obj\Debug\лаб1.pdb
